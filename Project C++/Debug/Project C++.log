@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Project C++\Project C++\Test.h(1153,20): warning C4018: '<': signed/unsigned mismatch
+D:\Project C++\Project C++\Test.h(1175,20): warning C4018: '<': signed/unsigned mismatch
+D:\Project C++\Project C++\Test.h(1229,20): warning C4018: '<': signed/unsigned mismatch
+D:\Project C++\Project C++\Test.h(1322,20): warning C4018: '<': signed/unsigned mismatch
+D:\Project C++\Project C++\Test.h(1324,21): warning C4018: '<': signed/unsigned mismatch
+D:\Project C++\Project C++\Test.h(1329,20): warning C4018: '<': signed/unsigned mismatch
+  Project C++.vcxproj -> D:\Project C++\Debug\Project C++.exe
